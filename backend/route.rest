@@ -1,0 +1,17 @@
+GET http://localhost:4000/
+
+### 
+
+GET http://localhost:4000/api/workouts
+
+###
+GET http://localhost:4000/api/workouts/123
+
+### 
+POST http://localhost:4000/api/workouts
+
+### 
+DELETE http://localhost:4000/api/workouts/123
+
+###
+PATCH http://localhost:4000/api/workouts/123
